@@ -1,0 +1,14 @@
+[
+  {"id":1,"name":"Frontlines Media","location":"Hyderabad, India","industry":"Media","employees":1200},
+  {"id":2,"name":"TechNova Labs","location":"Bengaluru, India","industry":"Technology","employees":350},
+  {"id":3,"name":"EcoVista Energy","location":"Austin, USA","industry":"Energy","employees":980},
+  {"id":4,"name":"HealthBridge","location":"Pune, India","industry":"Healthcare","employees":450},
+  {"id":5,"name":"AeroMesh Systems","location":"Seattle, USA","industry":"Aerospace","employees":2200},
+  {"id":6,"name":"FinSpring","location":"Mumbai, India","industry":"Finance","employees":640},
+  {"id":7,"name":"AgroPulse","location":"Chandigarh, India","industry":"Agriculture","employees":210},
+  {"id":8,"name":"UrbanNest","location":"Delhi, India","industry":"Real Estate","employees":1500},
+  {"id":9,"name":"CloudKite","location":"San Francisco, USA","industry":"SaaS","employees":500},
+  {"id":10,"name":"BrightEdu","location":"Boston, USA","industry":"EdTech","employees":120}
+]
+
+
